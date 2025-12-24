@@ -1,0 +1,13 @@
+{
+    "welcome_text": "🚀 <b>REWHOST SYSTEM</b>\n\nHi, {first_name}! 👋\nThis is your personal userbot deployment base.\n\n⚡️ <b>Fast. Stable. Simple.</b>\n\nUse the menu below to control 👇",
+    "welcome_text_new_user": "🚀 <b>REWHOST SYSTEM</b>\n\nWelcome to the family, {first_name}!\nYou found the best place for userbots.\n\n🎁 <b>YOUR STARTER PACK:</b>\n├ <b>-10%</b> on first purchase\n└ <b>+15%</b> on first deposit\n\nBonuses active. Let's go! 👇",
+    "initial_welcome_video_caption": "👋 <b>Yo, {first_name}!</b>\n\n<blockquote>You found the perfect place for your userbots. Fast, stable, and headache-free.</blockquote>\n\n🔥 <b>Newbie Bonuses:</b>\n🎁 <b>-10%</b> discount\n💎 <b>+15%</b> deposit bonus\n\n<i>Ready to deploy? Click below!</i>",
+    "select_language": "🌍 Select Language:",
+    "captcha_welcome_text": "🛡 <b>SECURITY CHECK</b>\n\nHi, {user_mention}!\nConfirm you are human by clicking below.",
+    "support_welcome_message": "🛟 <b>SUPPORT CENTER</b>\n\nDescribe your issue in one message.",
+    "support_prompt_question": "✍️ Write your question:",
+    "loading_state_text": "⏳ <b>Loading:</b> {menu_name}...",
+    "api_keys_menu_title": "🔑 <b>API KEYS</b>\n\nManage access tokens.\n⚠️ <b>Do not share these keys!</b>",
+    "api_key_generated_text": "✅ <b>Key Generated!</b>\nCopy it now, it won't be shown again:\n\n<code>{token}</code>",
+    "api_keys_revoked": "🗑 <b>All keys revoked.</b>"
+}

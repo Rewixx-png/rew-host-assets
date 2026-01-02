@@ -1,4 +1,19 @@
-# Загальні кнопки
+# --- ГОЛОВНЕ МЕНЮ ---
+my_userbots_button = 🚀 Мої боти
+tariffs_button = 💎 Тарифи
+profile_button = 👤 Профіль
+deposit_button = 💳 Поповнити
+misc_menu_button = 🗂️ Меню
+
+# --- МЕНЮ "РІЗНЕ" ---
+server_status_button = 📊 Статус серверів
+settings_button = ⚙️ Налаштування
+support_chat_button = 💬 Чат
+support_account_button = 👨‍💻 Агент
+admin_panel_button = 👑 Адмінка
+back_to_main_menu_button = 🏠 В головне меню
+
+# --- ЗАГАЛЬНІ КНОПКИ ---
 btn-back = Назад
 btn-cancel = Скасувати
 btn-confirm = Підтвердити
@@ -13,7 +28,7 @@ btn-admin = Адмінка
 btn-buy = Купити
 btn-deposit = Поповнити
 
-# Snake Case Keys
+# Snake Case
 back_button = Назад
 cancel_button = ❌ Скасувати
 confirm_button = ✅ Підтвердити
@@ -22,14 +37,13 @@ yes_button = ✅ Так
 no_button = ❌ Ні
 no_back_button = ❌ Ні, назад
 
-# Головне меню та навігація
-back_to_main_menu_button = 🏠 В головне меню
+# Навігація
 back_to_admin_panel_button = 🔙 В адмінку
 back_to_profile_button = ⬅️ В профіль
 back_to_containers_list_button = ⬅️ Назад до списку
 back_to_my_userbots_button = ⬅️ Назад
 
-# Профіль та дії
+# Профіль
 withdraw_button = 📤 Вивести
 ref_system_button = 👥 Партнери
 string_session_button = 📝 Сесії

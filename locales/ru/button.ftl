@@ -1,4 +1,19 @@
-# Общие кнопки навигации
+# --- ГЛАВНОЕ МЕНЮ (Main Menu) ---
+my_userbots_button = 🚀 Мои боты
+tariffs_button = 💎 Тарифы
+profile_button = 👤 Профиль
+deposit_button = 💳 Пополнить
+misc_menu_button = 🗂️ Меню
+
+# --- МЕНЮ "РАЗНОЕ" (Misc) ---
+server_status_button = 📊 Статус серверов
+settings_button = ⚙️ Настройки
+support_chat_button = 💬 Чат
+support_account_button = 👨‍💻 Агент
+admin_panel_button = 👑 Админка
+back_to_main_menu_button = 🏠 В главное меню
+
+# --- ОБЩИЕ КНОПКИ (General) ---
 btn-back = Назад
 btn-cancel = Отмена
 btn-confirm = Подтвердить
@@ -13,7 +28,7 @@ btn-admin = Админка
 btn-buy = Купить
 btn-deposit = Пополнить
 
-# Ключи, используемые в Python коде (Snake Case)
+# Snake Case (используются в коде)
 back_button = Назад
 cancel_button = ❌ Отмена
 confirm_button = ✅ Подтвердить
@@ -22,14 +37,13 @@ yes_button = ✅ Да
 no_button = ❌ Нет
 no_back_button = ❌ Нет, назад
 
-# Главное меню и навигация
-back_to_main_menu_button = 🏠 В главное меню
+# Навигация админки и профиля
 back_to_admin_panel_button = 🔙 В админку
 back_to_profile_button = ⬅️ В профиль
 back_to_containers_list_button = ⬅️ Назад к списку
 back_to_my_userbots_button = ⬅️ Назад
 
-# Кнопки профиля и действий
+# Профиль
 withdraw_button = 📤 Вывести
 ref_system_button = 👥 Реферальная система
 string_session_button = 📝 Строковые сессии
@@ -37,7 +51,7 @@ change_lang_button = 🏳️ Язык / Lang
 profile_settings_button = 🎨 Вид профиля
 
 # Сессии
-session_generate_new = ➕ Створити
+session_generate_new = ➕ Создать
 session_view_saved = 📄 Мои сессии
 session_download_all = 📥 Скачать все
 session_skip_comment_button = ⏩ Пропустить

@@ -1,4 +1,19 @@
-# General
+# --- MAIN MENU ---
+my_userbots_button = 🚀 My Bots
+tariffs_button = 💎 Tariffs
+profile_button = 👤 Profile
+deposit_button = 💳 Deposit
+misc_menu_button = 🗂️ Menu
+
+# --- MISC MENU ---
+server_status_button = 📊 Server Status
+settings_button = ⚙️ Settings
+support_chat_button = 💬 Chat
+support_account_button = 👨‍💻 Agent
+admin_panel_button = 👑 Admin Panel
+back_to_main_menu_button = 🏠 Main Menu
+
+# --- GENERAL ---
 btn-back = Back
 btn-cancel = Cancel
 btn-confirm = Confirm
@@ -13,7 +28,7 @@ btn-admin = Admin
 btn-buy = Buy
 btn-deposit = Deposit
 
-# Snake Case Keys
+# Snake Case
 back_button = Back
 cancel_button = ❌ Cancel
 confirm_button = ✅ Confirm
@@ -22,14 +37,13 @@ yes_button = ✅ Yes
 no_button = ❌ No
 no_back_button = ❌ No, back
 
-# Main Menu & Nav
-back_to_main_menu_button = 🏠 Main Menu
+# Navigation
 back_to_admin_panel_button = 🔙 Admin Panel
 back_to_profile_button = ⬅️ Profile
 back_to_containers_list_button = ⬅️ Back to list
 back_to_my_userbots_button = ⬅️ Back
 
-# Profile & Actions
+# Profile
 withdraw_button = 📤 Withdraw
 ref_system_button = 👥 Partners
 string_session_button = 📝 Sessions

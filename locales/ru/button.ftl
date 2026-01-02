@@ -1,11 +1,11 @@
-# --- ГЛАВНОЕ МЕНЮ (Main Menu) ---
+# --- ГЛАВНОЕ МЕНЮ ---
 my_userbots_button = 🚀 Мои боты
 tariffs_button = 💎 Тарифы
 profile_button = 👤 Профиль
 deposit_button = 💳 Пополнить
 misc_menu_button = 🗂️ Меню
 
-# --- МЕНЮ "РАЗНОЕ" (Misc) ---
+# --- МЕНЮ "РАЗНОЕ" ---
 server_status_button = 📊 Статус серверов
 settings_button = ⚙️ Настройки
 support_chat_button = 💬 Чат
@@ -13,7 +13,7 @@ support_account_button = 👨‍💻 Агент
 admin_panel_button = 👑 Админка
 back_to_main_menu_button = 🏠 В главное меню
 
-# --- ОБЩИЕ КНОПКИ (General) ---
+# --- ОБЩИЕ ---
 btn-back = Назад
 btn-cancel = Отмена
 btn-confirm = Подтвердить
@@ -28,7 +28,7 @@ btn-admin = Админка
 btn-buy = Купить
 btn-deposit = Пополнить
 
-# Snake Case (используются в коде)
+# Snake Case
 back_button = Назад
 cancel_button = ❌ Отмена
 confirm_button = ✅ Подтвердить
@@ -37,7 +37,7 @@ yes_button = ✅ Да
 no_button = ❌ Нет
 no_back_button = ❌ Нет, назад
 
-# Навигация админки и профиля
+# Навигация
 back_to_admin_panel_button = 🔙 В админку
 back_to_profile_button = ⬅️ В профиль
 back_to_containers_list_button = ⬅️ Назад к списку

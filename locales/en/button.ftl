@@ -121,3 +121,6 @@ mailing_button = 📬 Broadcast
 promo_management_button = 🎁 Promo Codes
 terminal_exit_button = Exit Terminal
 orphans_delete_button = 🗑️ Delete All ({$count})
+
+# Server
+server_deploy_agent = 🛠 Deploy Agent

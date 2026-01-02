@@ -121,3 +121,6 @@ mailing_button = 📬 Рассылка
 promo_management_button = 🎁 Промокоды
 terminal_exit_button = Выйти из терминала
 orphans_delete_button = 🗑️ Удалить все ({$count})
+
+# Серверы
+server_deploy_agent = 🛠 Деплой Агента

@@ -1,0 +1,9 @@
+err-unknown = Невідома помилка.
+err-db = Помилка бази даних.
+err-network = Помилка мережі.
+err-perm = Доступ заборонено.
+err-not-found = Не знайдено.
+err-invalid-input = Невірне введення.
+err-insufficient-funds = Недостатньо коштів.
+err-maintenance = Технічні роботи.
+err-user-blocked = Користувач заблокований.
